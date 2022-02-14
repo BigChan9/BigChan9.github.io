@@ -202,3 +202,8 @@ footer {
 .footer_nav p {
     padding: 0 24px;
 }
+
+.footer_nav a, .footer_nav a, .footer_nav a:visited, .footer_nav a:link {
+    text-decoration: none;
+    color: var(--footer-text-color);
+}
